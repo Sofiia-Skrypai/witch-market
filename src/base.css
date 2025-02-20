@@ -1,0 +1,62 @@
+:root {
+    --background-color: #000;
+    --text-color: #fff;
+    --nav-button-color: #171A1F;
+    --purple: #743093;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(142, 142, 142, 0.3);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(144, 144, 144, 0.5);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: "Montserrat Alternates", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    font-family: "Kurale", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 96px;
+}
+
+h2 {
+    font-family: "Kurale", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 64px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+button {
+    font-size: 18px;
+    transition: background-color 0.5s ease, border 0.5s ease, box-shadow 0.5s ease;
+}
+
+p {
+    font-size: 14px;
+}

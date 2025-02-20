@@ -1,0 +1,123 @@
+#offers {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+#offers h2 {
+    height: 40px;
+    line-height: 44%;
+    margin-top: 50px;
+    color: #000000;
+    text-align: center;
+}
+
+.offer-content {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.offer-details {
+    text-align: right;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.offer-details-2 {
+    text-align: left;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.offer-name {
+    width: 237px;
+    height: 92px;
+    font-size: 40px;
+    line-height: 120%;
+    color: #171A1F;
+    align-self: flex-end;
+}
+
+.old-price {
+    text-decoration: line-through;
+    font-size: 40px;
+    line-height: 110%;
+    color: #6E7787;
+}
+
+.new-price {
+    color: var(--purple);
+    font-size: 40px;
+    line-height: 110%;
+}
+
+.countdown-text {
+    display: flex;
+    align-items: center;
+    color: #9095A0;
+}
+
+.countdown {
+    font-size: 40px;
+    line-height: 120%;
+    color: #171A1F;
+    margin-top: 23px;
+}
+
+.basket-btn {
+    width: 152px;
+    height: 82px;
+    color: var(--purple);
+    border: 2px solid var(--purple);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.basket-btn:hover {
+    background: var(--purple);
+    color: white;
+    fill: white;
+}
+
+.basket-btn:hover img {
+    filter: brightness(0) saturate(100%) invert(100%);
+}
+
+.offers-list {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 50px;
+}
+
+.offer-item {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border-radius: 10px;
+    width: 375px;
+}
+
+.offer-item h3 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.offer-item p {
+    line-height: 143%;
+    color: #F3F4F6;
+}
+
+.offer-item p.grey {
+    color: #9095A0;
+}

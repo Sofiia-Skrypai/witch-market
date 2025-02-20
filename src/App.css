@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Kurale&family=Montserrat+Alternates:wght@400;700&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Rubik+Wet+Paint&family=Smythe&display=swap');
+@import url('base.css');
+@import url('header.css');
+@import url('basket.css');
+@import url('aboutMarket.css');
+@import url('catalog.css');
+@import url('vendors.css');
+@import url('reviews.css');
+@import url('specialOffer.css');
+@import url('footer.css');
+@import url('adaptive.css');

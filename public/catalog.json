@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Кришталева куля",
+    "description": "Кришталева куля з можливістю ворожіння",
+    "price": "$250",
+    "image": "/image20.png",
+    "inBasket": false
+  },
+  {
+    "id": 2,
+    "name": "Бузинова паличка",
+    "description": "Паличка з бузини з серцевиною фенікс",
+    "price": "$150",
+    "image": "/image21.png",
+    "inBasket": false
+  },
+  {
+    "id": 3,
+    "name": "Плащ-невидимка",
+    "description": "Плащ-невидимка для стелс-місій",
+    "price": "$400",
+    "image": "/image22.png",
+    "inBasket": false
+  },
+  {
+    "id": 4,
+    "name": "Стародавній Грімуар",
+    "description": "Книга заклинань із понад 300 заклинаннями",
+    "price": "$120",
+    "image": "/image23.png",
+    "inBasket": false
+  },
+  {
+    "id": 5,
+    "name": "Зілля молодості",
+    "description": "Зілля вічної молодості та бадьорості",
+    "price": "$200",
+    "oldPrice": "$500",
+    "image": "/image24.png",
+    "inBasket": false
+  },
+  {
+    "id": 6,
+    "name": "Кільце захисту",
+    "description": "Кільце захисту від темних сил",
+    "price": "$180",
+    "image": "/image25.png",
+    "inBasket": false
+  },
+  {
+    "id": 7,
+    "name": "Чарівний амулет",
+    "description": "Амулет для посилення магічних здібностей",
+    "price": "$220",
+    "image": "/image26.png",
+    "inBasket": false
+  },
+  {
+    "id": 8,
+    "name": "Левітаційні черевики",
+    "description": "Черевики для легких подорожей",
+    "price": "$300",
+    "image": "/image27.png",
+    "inBasket": false
+  },
+  {
+    "id": 9,
+    "name": "Чорний свічник",
+    "description": "Використовується для темних ритуалів.",
+    "price": "$400",
+    "image": "/image28.png",
+    "inBasket": false
+  },
+  {
+    "id": 10,
+    "name": "Перстень мерців",
+    "description": "Дозволяє викликати духів.",
+    "price": "$2200",
+    "image": "/image29.png",
+    "inBasket": false
+  },
+  {
+    "id": 11,
+    "name": "Магічний компас",
+    "description": "Вказує шлях до таємних місць",
+    "price": "$450",
+    "image": "/image30.png",
+    "inBasket": false
+  },
+  {
+    "id": 12,
+    "name": "Амулет вогню",
+    "description": "Амулет, що дає силу вогню",
+    "price": "$300",
+    "image": "/image31.png",
+    "inBasket": false
+  },
+  {
+    "id": 13,
+    "name": "Книга магії",
+    "description": "Містить давні магічні ритуали",
+    "price": "$350",
+    "image": "/image32.png",
+    "inBasket": false
+  },
+  {
+    "id": 14,
+    "name": "Зілля темряви",
+    "description": "Зілля, яке дає здатність керувати темрявою",
+    "price": "$500",
+    "image": "/image33.png",
+    "inBasket": false
+  },
+  {
+    "id": 15,
+    "name": "Грімовий меч",
+    "description": "Меч, що викликає грім при кожному ударі",
+    "price": "$700",
+    "image": "/image34.png",
+    "inBasket": false
+  },
+  {
+    "id": 16,
+    "name": "Ключ від порталу",
+    "description": "Ключ, що відкриває магічні портали",
+    "price": "$600",
+    "image": "/image35.png",
+    "inBasket": true
+  }
+]

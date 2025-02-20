@@ -1,0 +1,24 @@
+#basket-items {
+    position: absolute;
+    top: 92px;
+    right: 0;
+    background: rgba(0, 0, 0, 0.9);
+    padding: 10px;
+    border-radius: 10px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.basket-item {
+    background: var(--nav-button-color);
+    border-radius: 10px;
+    padding: 14px 9px;
+    white-space: nowrap;
+    outline: 2px solid transparent;
+}
+
+.basket-item h3 {
+    font-size: 18px;
+}
