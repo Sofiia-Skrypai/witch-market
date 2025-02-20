@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/witch-market/static/css/main.c4df6345.css",
+    "main.js": "/witch-market/static/js/main.a1cf1809.js",
+    "static/js/488.bc755f02.chunk.js": "/witch-market/static/js/488.bc755f02.chunk.js",
+    "static/media/witch-market-bg.jpg": "/witch-market/static/media/witch-market-bg.b149929091bdfa06fc96.jpg",
+    "index.html": "/witch-market/index.html",
+    "main.c4df6345.css.map": "/witch-market/static/css/main.c4df6345.css.map",
+    "main.a1cf1809.js.map": "/witch-market/static/js/main.a1cf1809.js.map",
+    "488.bc755f02.chunk.js.map": "/witch-market/static/js/488.bc755f02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4df6345.css",
+    "static/js/main.a1cf1809.js"
+  ]
+}
